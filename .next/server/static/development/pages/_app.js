@@ -130,7 +130,7 @@ var StyledHeader = styled_components__WEBPACK_IMPORTED_MODULE_3___default.a.head
 });
 
 var Header = function Header() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(StyledHeader, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 44
